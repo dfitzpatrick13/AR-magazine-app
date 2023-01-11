@@ -10,3 +10,4 @@ What I would change for the future of the application
 
 I want to add a menu to choose from different magazine in the future
 I want to be able to have the magazine pages move and comeback instead of just going on direction
+[magazine_final.pdf](https://github.com/dfitzpatrick13/test-app/files/10395889/magazine_final.pdf)
