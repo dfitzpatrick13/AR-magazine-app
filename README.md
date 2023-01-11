@@ -9,6 +9,7 @@ Skils learned
 
 
 I used reailty composer to make the AR scene 
+
 I used adobe Indesign to make the actual Magazine file 
 
 
